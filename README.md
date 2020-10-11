@@ -3,12 +3,12 @@
 My personal homebridge installation to control smart home devices from Home.app (even though I live in an Alexa household ;)
 
 ## Specs
-`
+```
 Mac Mini (mid-2010) on [macOS Catalina](http://dosdude1.com/catalina/)
 2.4 GHz Intel Core Duo
 8 GB 1067 MHz DDR3
 256 GB SSD
-`
+```
 
 ## Installed Plugins
 - [homebridge-config-ui-x](https://www.npmjs.com/package/homebridge-config-ui-x)
