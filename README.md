@@ -4,7 +4,7 @@ My personal homebridge installation to control smart home devices from Home.app 
 
 ## Specs
 ```
-Mac Mini (mid-2010) on [macOS Catalina](http://dosdude1.com/catalina/)
+Mac Mini (mid-2010) on macOS Catalina
 2.4 GHz Intel Core Duo
 8 GB 1067 MHz DDR3
 256 GB SSD
